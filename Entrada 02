@@ -1,130 +1,120 @@
+
 <channels>
+
+
 <channel>
 
-<name>[COLOR yellow]Décadas[/COLOR]|Carro Chefe|</name>
+<name>[COLOR yellow]>>> DÉCADAS[/COLOR][COLOR aquamarine]|CARRO CHEFE|[/COLOR]</name>
 
 <externallink>https://raw.githubusercontent.com/viko02/REVIVA-DECADAS/main/Decadas</externallink>
 
-<thumbnail>https://i.imgur.com/pe3u1qI.jpg</thumbnail>
+<thumbnail>https://uploaddeimagens.com.br/images/003/232/515/original/D%C3%A9cadas.jpg?1620442101</thumbnail>
 
-<fanart>https://i.imgur.com/gMD6DNN.jpg</fanart>
+<fanart>https://uploaddeimagens.com.br/images/002/793/259/original/fanart.jpg?1595664856</fanart>
 
-<info>Considerado a sétima arte, o cinema tem como uma de suas principais atribuições,o entretenimento. Além ainda de propagar características sobre culturas, ideias e pensamentos de décadas passadas. Há também os filmes de ficção científica, que criam uma realidade particular para contar histórias longe dos nossos padrões de vida. Com tantos gêneros e ramificações, algumas produções se destacaram ao longo do tempo e são bons exemplos para apresentar ideias e técnicas características da época que retratam.
-Conheça alguns filmes por década!
-</info>
-
-</channel>
-</channels>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-
-<name>Reviva 4K</name>
-
-<thumbnail>https://i.imgur.com/WF5Gkgq.jpg</thumbnail>
-
-<externallink>https://raw.githubusercontent.com/viko02/4K/main/4k</externallink>
-
-<fanart>https://i.imgur.com/gMD6DNN.jpg</fanart>
-
-<info>Seleção aleatória de filmes em 4K.
-Você tem em suas mãos uma nova TV 4K, ou um novo monitor 4K, ou mesmo um smartphone com uma tela 4k, e aí você se pergunta: onde estão os filmes em 4K? É triste, mas às vezes pode parecer impossível de achar bons conteúdos para sua nova tela.
-Serviços de streaming não facilitam a tarefa de achar tal conteúdo. Mas, não se preocupe, reuni alguns filmes para lhe ajudar!</info>
+<info>[COLOR aquamarine]Considerado a sétima arte, o cinema tem como uma de suas principais atribuições,o entretenimento. Além ainda de propagar características sobre culturas, ideias e pensamentos de décadas passadas. Há também os filmes de ficção científica, que criam uma realidade particular para contar histórias longe dos nossos padrões de vida. Com tantos gêneros e ramificações, algumas produções se destacaram ao longo do tempo e são bons exemplos para apresentar ideias e técnicas características da época que retratam.
+Conheça alguns filmes por década![/COLOR]</info>
 
 </channel>
-</channels>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>Cronologia Marvel</name>
-<thumbnail>https://i.imgur.com/XHgMW0T.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/viko02/Cronologia-Marvel/main/Marvel</externallink>
-<fanart>https://i.imgur.com/gMD6DNN.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR] - Siga a cronologia dos filmes da Marvel para poder maratonar o Universo Compartilhado da Marvel inteirinho, mas só com os filmes. Se você não está preocupado com as séries, essa aqui é a ordem cronológica certa do universo Marvel Studios, oficializada no livro Marvel: The First Ten Years. Mas também levamos em conta a ordem que os Irmãos Russo, diretores de Vingadores: Guerra Infinita e Vingadores: Ultimato, publicaram em suas redes sociais e as datas anunciadas pela Marvel Studios na San Diego Comic Con 2019. Créditos aficionados.com.br  - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>Universo Estendido DC</name>
-<thumbnail>https://i.imgur.com/IrGyiu0.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/viko02/MATRIX/main/README.md</externallink>
-<fanart>https://i.imgur.com/gMD6DNN.jpg</fanart>
-<info>A DC Comics é uma editora norte-americana subsidiária da companhia WarnerMedia situada em Burbank, Califórnia, especializada em histórias em quadrinhos e mídias relacionadas, sendo considerada uma das maiores companhias ligadas a este ramo no mundo. A empresa detém a propriedade de muitos dos mais famosos personagens como: Batman, Superman, Mulher-Maravilha, Mulher-Gato, Supergirl, Robin, Flash, Cyborg, Aquaman, Átomo, Lanterna Verde, Coringa, Arqueiro Verde, Shazam dentre outros, e os seus antagonistas como: Darkseid, Coringa, Lex Luthor, Sinestro, Flash Reverso, Ozymandias e Lobo da Estepe.
-</info>
-</channel>
-</channels>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>Cronologia X-Men</name>
-<thumbnail>https://i.imgur.com/PFAKRpX.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/zhBMq8Ay</externallink>
-<fanart>https://i.imgur.com/gMD6DNN.jpg</fanart>
-<info>Os mutantes dos X-Men já ganharam duas franquias completamente voltadas para eles nos últimos vinte anos. Entretanto, muitos fãs ainda se confundem bastante com as linhas cronológicas criadas por esses eventos.
-Confira nesta lista a ordem cronológica correta para assistir a todos os filmes da franquia X-Men, incluindo o mais recente longa do universo, X-Men: Fênix Negra.</info>
-</channel>
-</channels>
-
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
 <channel>
 
-<name>Super-Heróis Alternativos</name>
+<name>[COLOR aquamarine]>>> LANÇAMENTOS[/COLOR]</name>
 
-<thumbnail>https://i.imgur.com/MwQvDTA.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/wiT6yW7.jpg</thumbnail>
 
-<externallink>https://pastebin.com/raw/ewbvGiQH</externallink>
+<externallink>https://github.com/clickaddon/MAISHRECENTES/raw/main/Maishrecentes</externallink>
 
-<fanart>https://i.imgur.com/gMD6DNN.jpg</fanart>
+<fanart>https://uploaddeimagens.com.br/images/002/793/259/original/fanart.jpg?1595664856</fanart>
 
-<info>Marvel e DC Comics contam com alguns dos maiores heróis da história dos quadrinhos. Porém, ao longo dos anos, outras editoras criaram personagens tão interessantes que eles tornaram-se sucesso de público e de crítica. Conheça agora alguns que não são da Marvel, nem da DC.</info>
+<info>[COLOR aquamarine]CATÁLOGO DE FILMES RECÉM LANÇADOS, DOS MAIS VARIADOS GÊNEROS. TEM AÇÃO E AVENTURA, FICÇÃO, COMÉDIAS, TERROR, INFANTIS PARA A CRIANÇADA, SEQUÊNCIAS DE FILMES DOS HERÓIS MAIS AMADOS E MUITO MAIS, PARA CURTIR E APROVEITAR COM A FAMÍLIA.[/COLOR]</info>
+
 </channel>
-</channels>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
 <channel>
 
-<name>Franquias Alternativas</name>
+<name>[COLOR aquamarine]>>> REVIVA 4K[/COLOR]</name>
 
-<thumbnail>https://i.imgur.com/ScMY3bo.jpg</thumbnail>
+<thumbnail>https://uploaddeimagens.com.br/images/003/232/516/original/REVIVA_4k.jpg?1620442288</thumbnail>
+
+<externallink>https://github.com/viko02/4K/raw/main/4k</externallink>
+
+<fanart>https://uploaddeimagens.com.br/images/002/793/259/original/fanart.jpg?1595664856</fanart>
+
+<info>[COLOR aquamarine]Seleção aleatória de filmes em 4K.
+Você tem em suas mãos uma nova TV 4K, ou um novo monitor 4K, ou mesmo um smartphone com uma tela 4k, e aí você se pergunta: onde estão os filmes em 4K? É triste, mas às vezes pode parecer impossível de achar bons conteúdos para sua nova tela.
+Serviços de streaming não facilitam a tarefa de achar tal conteúdo. Mas, não se preocupe, reuni alguns filmes para lhe ajudar![/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[COLOR aquamarine]>>> CRONOLOGIA MARVEL[/COLOR]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/003/232/521/original/Marvel.jpg?1620442628</thumbnail>
+
+<externallink>https://raw.githubusercontent.com/viko02/Cronologia-Marvel/main/Marvel</externallink>
+
+<fanart>https://uploaddeimagens.com.br/images/002/793/259/original/fanart.jpg?1595664856</fanart>
+
+<info>[COLOR deeppink]|[/COLOR] - [COLOR aquamarine]Siga a cronologia dos filmes da Marvel para poder maratonar o Universo Compartilhado da Marvel inteirinho, mas só com os filmes. Se você não está preocupado com as séries, essa aqui é a ordem cronológica certa do universo Marvel Studios, oficializada no livro Marvel: The First Ten Years. Mas também levamos em conta a ordem que os Irmãos Russo, diretores de Vingadores: Guerra Infinita e Vingadores: Ultimato, publicaram em suas redes sociais e as datas anunciadas pela Marvel Studios na San Diego Comic Con 2019. Créditos aficionados.com.br[/COLOR][COLOR deeppink]|[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[COLOR aquamarine]>>> UNIVERSO DC[/COLOR]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/003/232/523/original/DC.jpg?1620442889</thumbnail>
+
+<externallink>https://raw.githubusercontent.com/viko02/MATRIX/main/README.md</externallink>
+
+<fanart>https://uploaddeimagens.com.br/images/002/793/259/original/fanart.jpg?1595664856</fanart>
+
+<info>[COLOR aquamarine]A DC Comics é uma editora norte-americana subsidiária da companhia WarnerMedia situada em Burbank, Califórnia, especializada em histórias em quadrinhos e mídias relacionadas, sendo considerada uma das maiores companhias ligadas a este ramo no mundo. A empresa detém a propriedade de muitos dos mais famosos personagens como: Batman, Superman, Mulher-Maravilha, Mulher-Gato, Supergirl, Robin, Flash, Cyborg, Aquaman, Átomo, Lanterna Verde, Coringa, Arqueiro Verde, Shazam dentre outros, e os seus antagonistas como: Darkseid, Coringa, Lex Luthor, Sinestro, Flash Reverso, Ozymandias e Lobo da Estepe.[/COLOR]</info>
+
+</channel>
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[COLOR aquamarine]>>> CRONOLOGIA X-MEN[/COLOR]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/003/232/524/original/x_men.jpg?1620443109</thumbnail>
+
+<externallink>https://pastebin.com/raw/zhBMq8Ay</externallink>
+
+<fanart>https://uploaddeimagens.com.br/images/002/793/259/original/fanart.jpg?1595664856</fanart>
+
+<info>[COLOR aquamarine]Os mutantes dos X-Men já ganharam duas franquias completamente voltadas para eles nos últimos vinte anos. Entretanto, muitos fãs ainda se confundem bastante com as linhas cronológicas criadas por esses eventos.
+Confira nesta lista a ordem cronológica correta para assistir a todos os filmes da franquia X-Men, incluindo o mais recente longa do universo, X-Men: Fênix Negra.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channel>
+
+<name>[COLOR aquamarine]>>> FRANQUIAS ALTERNATIVAS[/COLOR]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/003/232/532/original/Franquias.jpg?1620443506</thumbnail>
 
 <externallink>https://pastebin.com/raw/GSDS5L72</externallink>
 
 
-<fanart>https://i.imgur.com/gMD6DNN.jpg</fanart>
+<fanart>https://uploaddeimagens.com.br/images/002/793/259/original/fanart.jpg?1595664856</fanart>
 
-<info>Maratone as maiores e mais conhecidas sagas, sequências e franquias do mundo do cinema. Hollywood é uma máquina de produzir filmes, e é muito fácil se perder no meio dos lançamentos todos os meses. Entre tantos títulos independentes, alguns filmes compartilham o mesmo universo e fazem parte de franquias que existem há muitos anos, atraindo fãs fiéis e, consequentemente, gerando muito lucro.
-Confira mais algumas franquias: Porque uma história boa sempre merece uma continuação.</info>
-</channel>
-</channels>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<channel>
-
-<name>Aberrações</name>
-
-<thumbnail>https://i.imgur.com/ceWJrul.jpg</thumbnail>
-
-<externallink>https://pastebin.com/raw/GxBRb58v</externallink>
-
-<fanart>https://i.imgur.com/gMD6DNN.jpg</fanart>
-
-<info>Monstro é um ser fantástico e lendário que possui aparência, poderes e atitudes aterrorizantes. Nas histórias sua intenção é causar medo nas pessoas e, geralmente, representar o mal, enquanto há alguém do bem para derrotá-lo. Uma ótima lista para assistir em companhia com quem também gosta de mitologia e lendas históricas. </info>
+<info>[COLOR aquamarine]Maratone as maiores e mais conhecidas sagas, sequências e franquias do mundo do cinema. Hollywood é uma máquina de produzir filmes, e é muito fácil se perder no meio dos lançamentos todos os meses. Entre tantos títulos independentes, alguns filmes compartilham o mesmo universo e fazem parte de franquias que existem há muitos anos, atraindo fãs fiéis e, consequentemente, gerando muito lucro.
+Confira mais algumas franquias: Porque uma história boa sempre merece uma continuação.[/COLOR]</info>
 
 </channel>
 
@@ -132,19 +122,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
+<name>[COLOR aquamarine]>>> HERÓIS ALTERNATIVOS[/COLOR]</name>
 
-<name>[COLOR yellow]TESTE[/COLOR]</name>
+<thumbnail>https://uploaddeimagens.com.br/images/003/232/528/original/Super-Her%C3%B3is.jpg?1620443385</thumbnail>
 
-<thumbnail></thumbnail>
+<externallink>https://pastebin.com/raw/ewbvGiQH</externallink>
 
-<externallink>https://github.com/viko02/Pagina01/raw/main/pagina%2001</externallink>
+<fanart>https://uploaddeimagens.com.br/images/002/793/259/original/fanart.jpg?1595664856</fanart>
 
-<fanart>https://i.imgur.com/gMD6DNN.jpg</fanart>
-
-<info></info>
+<info>[COLOR aquamarine]Marvel e DC Comics contam com alguns dos maiores heróis da história dos quadrinhos. Porém, ao longo dos anos, outras editoras criaram personagens tão interessantes que eles tornaram-se sucesso de público e de crítica. Conheça agora alguns que não são da Marvel, nem da DC.[/COLOR]</info>
 
 </channel>
 
 </channels>
 
-XXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
+
