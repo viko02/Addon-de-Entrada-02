@@ -1,7 +1,6 @@
 
 <channels>
 
-
 <channel>
 
 <name>[B][COLOR aquamarine]>>> DÉCADAS | CARRO-CHEFE[/COLOR][/B]</name>
@@ -14,6 +13,22 @@
 
 <info>[COLOR aquamarine]Considerado a sétima arte, o cinema tem como uma de suas principais atribuições,o entretenimento. Além ainda de propagar características sobre culturas, ideias e pensamentos de décadas passadas. Há também os filmes de ficção científica, que criam uma realidade particular para contar histórias longe dos nossos padrões de vida. Com tantos gêneros e ramificações, algumas produções se destacaram ao longo do tempo e são bons exemplos para apresentar ideias e técnicas características da época que retratam.
 Conheça alguns filmes por década![/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine]>>> CRONOLOGIA MARVEL[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/003/232/521/original/Marvel.jpg?1620442628</thumbnail>
+
+<externallink>https://raw.githubusercontent.com/viko02/Cronologia-Marvel/main/Marvel</externallink>
+
+<fanart>https://i.imgur.com/WL19rp2.jpg</fanart>
+
+<info>[COLOR deeppink]|[/COLOR] - [COLOR aquamarine]Siga a cronologia dos filmes da Marvel para poder maratonar o Universo Compartilhado da Marvel inteirinho, mas só com os filmes. Se você não está preocupado com as séries, essa aqui é a ordem cronológica certa do universo Marvel Studios, oficializada no livro Marvel: The First Ten Years. Mas também levamos em conta a ordem que os Irmãos Russo, diretores de Vingadores: Guerra Infinita e Vingadores: Ultimato, publicaram em suas redes sociais e as datas anunciadas pela Marvel Studios na San Diego Comic Con 2019. Créditos aficionados.com.br[/COLOR][COLOR deeppink]|[/COLOR]</info>
 
 </channel>
 
@@ -57,22 +72,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR aquamarine]>>> CRONOLOGIA MARVEL[/COLOR][/B]</name>
-
-<thumbnail>https://uploaddeimagens.com.br/images/003/232/521/original/Marvel.jpg?1620442628</thumbnail>
-
-<externallink>https://raw.githubusercontent.com/viko02/Cronologia-Marvel/main/Marvel</externallink>
-
-<fanart>https://i.imgur.com/WL19rp2.jpg</fanart>
-
-<info>[COLOR deeppink]|[/COLOR] - [COLOR aquamarine]Siga a cronologia dos filmes da Marvel para poder maratonar o Universo Compartilhado da Marvel inteirinho, mas só com os filmes. Se você não está preocupado com as séries, essa aqui é a ordem cronológica certa do universo Marvel Studios, oficializada no livro Marvel: The First Ten Years. Mas também levamos em conta a ordem que os Irmãos Russo, diretores de Vingadores: Guerra Infinita e Vingadores: Ultimato, publicaram em suas redes sociais e as datas anunciadas pela Marvel Studios na San Diego Comic Con 2019. Créditos aficionados.com.br[/COLOR][COLOR deeppink]|[/COLOR]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
 <name>[B][COLOR aquamarine]>>> UNIVERSO DC[/COLOR][/B]</name>
 
 <thumbnail>https://uploaddeimagens.com.br/images/003/232/523/original/DC.jpg?1620442889</thumbnail>
@@ -104,23 +103,6 @@ Confira nesta lista a ordem cronológica correta para assistir a todos os filmes
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<channel>
-
-<name>[B][COLOR aquamarine]>>> FRANQUIAS ALTERNATIVAS[/COLOR][/B]</name>
-
-<thumbnail>https://uploaddeimagens.com.br/images/003/232/532/original/Franquias.jpg?1620443506</thumbnail>
-
-<externallink>https://pastebin.com/raw/GSDS5L72</externallink>
-
-
-<fanart>https://i.imgur.com/WL19rp2.jpg</fanart>
-
-<info>[COLOR aquamarine]Maratone as maiores e mais conhecidas sagas, sequências e franquias do mundo do cinema. Hollywood é uma máquina de produzir filmes, e é muito fácil se perder no meio dos lançamentos todos os meses. Entre tantos títulos independentes, alguns filmes compartilham o mesmo universo e fazem parte de franquias que existem há muitos anos, atraindo fãs fiéis e, consequentemente, gerando muito lucro.
-Confira mais algumas franquias: Porque uma história boa sempre merece uma continuação.[/COLOR]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
@@ -140,7 +122,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channel>
+
+<name>[B][COLOR aquamarine]>>> FRANQUIAS ALTERNATIVAS[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/003/232/532/original/Franquias.jpg?1620443506</thumbnail>
+
+<externallink>https://pastebin.com/raw/GSDS5L72</externallink>
 
 
+<fanart>https://i.imgur.com/WL19rp2.jpg</fanart>
 
+<info>[COLOR aquamarine]Maratone as maiores e mais conhecidas sagas, sequências e franquias do mundo do cinema. Hollywood é uma máquina de produzir filmes, e é muito fácil se perder no meio dos lançamentos todos os meses. Entre tantos títulos independentes, alguns filmes compartilham o mesmo universo e fazem parte de franquias que existem há muitos anos, atraindo fãs fiéis e, consequentemente, gerando muito lucro.
+Confira mais algumas franquias: Porque uma história boa sempre merece uma continuação.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
