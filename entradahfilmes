@@ -22,7 +22,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <name>[B][COLOR aquamarine]>>> CRONOLOGIA MARVEL[/COLOR][/B]</name>
 
-<thumbnail>https://uploaddeimagens.com.br/images/003/232/521/original/Marvel.jpg?1620442628</thumbnail>
+<thumbnail>https://uploaddeimagens.com.br/images/003/377/266/original/1628711859501.jpg?1628713116</thumbnail>
 
 <externallink>https://raw.githubusercontent.com/viko02/Cronologia-Marvel/main/Marvel</externallink>
 
@@ -38,7 +38,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <name>[B][COLOR aquamarine]>>> LANÇAMENTOS[/COLOR][/B]</name>
 
-<thumbnail>https://i.imgur.com/wiT6yW7.jpg</thumbnail>
+<thumbnail>https://uploaddeimagens.com.br/images/003/377/267/original/1628711953637.jpg?1628713131</thumbnail>
 
 <externallink>https://github.com/viko02/REVIVARECENTHES/raw/main/recenthes</externallink>
 
@@ -54,9 +54,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR aquamarine]>>> REVIVA 4K[/COLOR][/B]</name>
+<name>[B][COLOR aquamarine]>>> CLICK 4K[/COLOR][/B]</name>
 
-<thumbnail>https://uploaddeimagens.com.br/images/003/232/516/original/REVIVA_4k.jpg?1620442288</thumbnail>
+<thumbnail>https://uploaddeimagens.com.br/images/003/377/268/original/1628712028927.jpg?1628713149</thumbnail>
 
 <externallink>https://github.com/viko02/4K/raw/main/4k</externallink>
 
@@ -74,7 +74,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <name>[B][COLOR aquamarine]>>> UNIVERSO DC[/COLOR][/B]</name>
 
-<thumbnail>https://uploaddeimagens.com.br/images/003/232/523/original/DC.jpg?1620442889</thumbnail>
+<thumbnail>https://uploaddeimagens.com.br/images/003/377/270/original/1628712084651.jpg?1628713168</thumbnail>
 
 <externallink>https://raw.githubusercontent.com/viko02/MATRIX/main/README.md</externallink>
 
@@ -91,7 +91,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <name>[B][COLOR aquamarine]>>> CRONOLOGIA X-MEN[/COLOR][/B]</name>
 
-<thumbnail>https://uploaddeimagens.com.br/images/003/232/524/original/x_men.jpg?1620443109</thumbnail>
+<thumbnail>https://uploaddeimagens.com.br/images/003/377/272/original/1628712138175.jpg?1628713183</thumbnail>
 
 <externallink>https://pastebin.com/raw/zhBMq8Ay</externallink>
 
@@ -106,27 +106,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR aquamarine]>>> HERÓIS ALTERNATIVOS[/COLOR][/B]</name>
-
-<thumbnail>https://uploaddeimagens.com.br/images/003/232/528/original/Super-Her%C3%B3is.jpg?1620443385</thumbnail>
-
-<externallink>https://pastebin.com/raw/ewbvGiQH</externallink>
-
-<fanart>https://i.imgur.com/WL19rp2.jpg</fanart>
-
-<info>[COLOR aquamarine]Marvel e DC Comics contam com alguns dos maiores heróis da história dos quadrinhos. Porém, ao longo dos anos, outras editoras criaram personagens tão interessantes que eles tornaram-se sucesso de público e de crítica. Conheça agora alguns que não são da Marvel, nem da DC.[/COLOR]</info>
-
-</channel>
-
-</channels>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
 <name>[B][COLOR aquamarine]>>> FRANQUIAS ALTERNATIVAS[/COLOR][/B]</name>
 
-<thumbnail>https://uploaddeimagens.com.br/images/003/232/532/original/Franquias.jpg?1620443506</thumbnail>
+<thumbnail>https://uploaddeimagens.com.br/images/003/377/279/original/1628712339804.jpg?1628713220</thumbnail>
 
 <externallink>https://pastebin.com/raw/GSDS5L72</externallink>
 
@@ -139,4 +121,22 @@ Confira mais algumas franquias: Porque uma história boa sempre merece uma conti
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine]>>> SUPER-HERÓIS ALTERNATIVOS[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/003/377/273/original/1628712269959.jpg?1628713196</thumbnail>
+
+<externallink>https://pastebin.com/raw/ewbvGiQH</externallink>
+
+<fanart>https://i.imgur.com/WL19rp2.jpg</fanart>
+
+<info>[COLOR aquamarine]Marvel e DC Comics contam com alguns dos maiores heróis da história dos quadrinhos. Porém, ao longo dos anos, outras editoras criaram personagens tão interessantes que eles tornaram-se sucesso de público e de crítica. Conheça agora alguns que não são da Marvel, nem da DC.[/COLOR]</info>
+
+</channel>
+
+</channels>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
