@@ -20,19 +20,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR aquamarine]>>> Cronologia Marvel[/COLOR][/B]</name>
+<name>[B][COLOR aquamarine]>>> Franquias Alternativas[/COLOR][/B]</name>
 
-<thumbnail>https://uploaddeimagens.com.br/images/003/377/266/original/1628711859501.jpg?1628713116</thumbnail>
+<thumbnail>https://uploaddeimagens.com.br/images/003/377/279/original/1628712339804.jpg?1628713220</thumbnail>
 
-<externallink>https://raw.githubusercontent.com/viko02/Cronologia-Marvel/main/Marvel</externallink>
+<externallink>https://github.com/viko02/franqhuias/raw/main/franqhuias</externallink>
+
 
 <fanart>https://i.imgur.com/WL19rp2.jpg</fanart>
 
-<info>[COLOR aquamarine]Siga a cronologia dos filmes da Marvel para poder maratonar o Universo Compartilhado da Marvel inteirinho, mas só com os filmes. Se você não está preocupado com as séries, essa aqui é a ordem cronológica certa do universo Marvel Studios, oficializada no livro Marvel: The First Ten Years. Mas também levamos em conta a ordem que os Irmãos Russo, diretores de Vingadores: Guerra Infinita e Vingadores: Ultimato, publicaram em suas redes sociais e as datas anunciadas pela Marvel Studios na San Diego Comic Con 2019.[/COLOR]</info>
+<info>[COLOR aquamarine]Maratone as maiores e mais conhecidas sagas, sequências e franquias do mundo do cinema. Hollywood é uma máquina de produzir filmes, e é muito fácil se perder no meio dos lançamentos todos os meses. Entre tantos títulos independentes, alguns filmes compartilham o mesmo universo e fazem parte de franquias que existem há muitos anos, atraindo fãs fiéis em todo o mundo e, consequentemente, gerando muito lucro. Confira mais algumas franquias; Porque uma boa história sempre merece uma continuação.[/COLOR]</info>
 
 </channel>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
@@ -87,6 +88,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
+<name>[B][COLOR aquamarine]>>> Cronologia Marvel[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/003/377/266/original/1628711859501.jpg?1628713116</thumbnail>
+
+<externallink>https://raw.githubusercontent.com/viko02/Cronologia-Marvel/main/Marvel</externallink>
+
+<fanart>https://i.imgur.com/WL19rp2.jpg</fanart>
+
+<info>[COLOR aquamarine]Siga a cronologia dos filmes da Marvel para poder maratonar o Universo Compartilhado da Marvel inteirinho, mas só com os filmes. Se você não está preocupado com as séries, essa aqui é a ordem cronológica certa do universo Marvel Studios, oficializada no livro Marvel: The First Ten Years. Mas também levamos em conta a ordem que os Irmãos Russo, diretores de Vingadores: Guerra Infinita e Vingadores: Ultimato, publicaram em suas redes sociais e as datas anunciadas pela Marvel Studios na San Diego Comic Con 2019.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
 <name>[B][COLOR aquamarine]>>> Cronologia X-Men[/COLOR][/B]</name>
 
 <thumbnail>https://uploaddeimagens.com.br/images/003/377/272/original/1628712138175.jpg?1628713183</thumbnail>
@@ -97,23 +114,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <info>[COLOR aquamarine]Os mutantes dos X-Men já ganharam duas franquias completamente voltadas para eles nos últimos vinte anos. Entretanto, muitos fãs ainda se confundem bastante com as linhas cronológicas criadas por esses eventos.
 Confira nesta lista a ordem cronológica correta para assistir a todos os filmes da franquia, incluindo o mais recente longa do universo: Fênix Negra.[/COLOR]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[B][COLOR aquamarine]>>> Franquias Alternativas[/COLOR][/B]</name>
-
-<thumbnail>https://uploaddeimagens.com.br/images/003/377/279/original/1628712339804.jpg?1628713220</thumbnail>
-
-<externallink>https://github.com/viko02/franqhuias/raw/main/franqhuias</externallink>
-
-
-<fanart>https://i.imgur.com/WL19rp2.jpg</fanart>
-
-<info>[COLOR aquamarine]Maratone as maiores e mais conhecidas sagas, sequências e franquias do mundo do cinema. Hollywood é uma máquina de produzir filmes, e é muito fácil se perder no meio dos lançamentos todos os meses. Entre tantos títulos independentes, alguns filmes compartilham o mesmo universo e fazem parte de franquias que existem há muitos anos, atraindo fãs fiéis em todo o mundo e, consequentemente, gerando muito lucro. Confira mais algumas franquias; Porque uma boa história sempre merece uma continuação.[/COLOR]</info>
 
 </channel>
 
