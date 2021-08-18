@@ -18,25 +18,6 @@ Conheça alguns filmes por década![/COLOR]</info>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-
-<channel>
-
-<name>[B][COLOR aquamarine]>>> Click Dicas[/COLOR][/B]</name>
-
-<thumbnail>https://i.imgur.com/RDMhgOa.jpg</thumbnail>
-
-<externallink>https://github.com/viko02/dihca/raw/main/dihca</externallink>
-
-<fanart>https://i.imgur.com/WL19rp2.jpg</fanart>
-
-<info>[COLOR aquamarine]TOPA UMA AJUDINHA?
-PARA QUEM ESTÁ PERDIDO E NÃO SABE MUITO BEM O QUE ESCOLHER ENTRE TANTAS OPÇÕES, O  CLICK FARÁ UMA LISTA DE FILMES PARA FACILITAR SUA VIDA! TODA SEMANA UM MIX DE GÊNEROS. FILMES DE COMÉDIA, DRAMA, AÇÃO, AVENTURA, TERROR... MUITA COISA LEGAL E DISPONÍVEL NESSE ESPAÇO.[/COLOR]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <channel>
 
 <name>[B][COLOR aquamarine]>>> Lançamentos[/COLOR][/B]</name>
@@ -70,6 +51,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+
+<channel>
+
+<name>[B][COLOR aquamarine]>>> Click Dicas[/COLOR][/B]</name>
+
+<thumbnail>https://i.imgur.com/RDMhgOa.jpg</thumbnail>
+
+<externallink>https://github.com/viko02/dihca/raw/main/dihca</externallink>
+
+<fanart>https://i.imgur.com/WL19rp2.jpg</fanart>
+
+<info>[COLOR aquamarine]TOPA UMA AJUDINHA?
+PARA QUEM ESTÁ PERDIDO E NÃO SABE MUITO BEM O QUE ESCOLHER ENTRE TANTAS OPÇÕES, O  CLICK FARÁ UMA LISTA DE FILMES PARA FACILITAR SUA VIDA! TODA SEMANA UM MIX DE GÊNEROS. FILMES DE COMÉDIA, DRAMA, AÇÃO, AVENTURA, TERROR... MUITA COISA LEGAL E DISPONÍVEL NESSE ESPAÇO.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
